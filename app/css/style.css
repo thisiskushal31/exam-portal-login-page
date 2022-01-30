@@ -1,1 +1,90 @@
-.incomming
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(/images/background.jpg) no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    width: 66%;
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+}
+
+.login-body {
+    width: 66%;
+    min-width: 800px;
+    position: absolute;
+    top: 14%;
+}
+
+.login-html {
+    float: left;
+    width: 49%;
+    margin-right: 1%;
+}
+
+.login-form {
+    background-color: #e5f7f8;
+    text-align: center;
+    box-shadow: 0 0 20px #000;
+    border-radius: 3%;
+}
+
+.login-content {
+    padding: 30px 30px 50px 30px;
+}
+
+.login-content a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #4f4f4f;
+}
+
+label {
+    display: block;
+    color: #f4f4f4;
+    font-size: 18px;
+    margin-bottom: 3px;
+    opacity: 0;
+    transition: all .3s ease-in-out;
+}
+
+input {
+    margin-bottom: 15px;
+    padding: 10px 5px;
+    width: 80%;
+    background-color: #ccc;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #333;
+}
+
+input:focus {
+    background-color: #f4f4f4;
+    border: none;
+    outline: none;
+}
+
+input[type=submit] {
+    color: #fff;
+    background-color: #ff4b4b;
+    border: none;
+    font-family: 'Rokkitt', serif;
+    font-size: 24px;
+    margin-top: 25px;
+    width: 60%;
+
+    transition: all .5s ease;
+}
+
+input[type=submit]:hover {
+    background-color: #aa4f4f;
+    cursor: pointer;
+    color: #f4f4f4;
+}

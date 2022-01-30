@@ -40,6 +40,8 @@ Please read the [CONTRIBUTING.md](#) file (Soon to be added) to see how you can 
 
 # Screenshots
 
+![CodePen](https://codepen.io/thisiskushal31/pen/QWOjXXw)
+
 ![App Screenshot](https://github.com/thisiskushal31/exam-portal-login-page/blob/main/images/Web_Output.png?raw=true)
 
 # 🚀 About Me

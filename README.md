@@ -1,4 +1,6 @@
 # Exam Portal Login Page
+![exam-portal-login-page](https://socialify.git.ci/thisiskushal31/exam-portal-login-page/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fthisiskushal31%2Fexam-portal-login-page%2Fmain%2Fimages%2Flogo.png&name=1&owner=1&pattern=Solid&theme=Dark)
+
 This is the Simple login page that enables users to login in the exam portal.      
 
 # Getting Started

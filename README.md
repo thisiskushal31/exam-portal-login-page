@@ -1,5 +1,7 @@
 # Exam Portal Login Page
-This is the Simple login page that enables users to login in the exam portal.      
+This is the Simple login page that enables users to login in the exam portal.
+
+**Notice: This repository content is moved to [thisiskushal31/100-css-projects](https://github.com/thisiskushal31/100-css-projects)**
 
 # Getting Started
 These instructions should get you a copy of the project up and running on your local machine for development and testing purposes.
